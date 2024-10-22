@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ap2Biblioteca/1.0.0": {
+        "runtime": {
+          "Ap2Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ap2Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

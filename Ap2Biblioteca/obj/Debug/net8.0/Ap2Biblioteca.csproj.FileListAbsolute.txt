@@ -1,0 +1,15 @@
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\bin\Debug\net8.0\Ap2Biblioteca.exe
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\bin\Debug\net8.0\Ap2Biblioteca.deps.json
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\bin\Debug\net8.0\Ap2Biblioteca.runtimeconfig.json
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\bin\Debug\net8.0\Ap2Biblioteca.dll
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\bin\Debug\net8.0\Ap2Biblioteca.pdb
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\obj\Debug\net8.0\Ap2Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\obj\Debug\net8.0\Ap2Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\obj\Debug\net8.0\Ap2Biblioteca.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\obj\Debug\net8.0\Ap2Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\obj\Debug\net8.0\Ap2Biblioteca.sourcelink.json
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\obj\Debug\net8.0\Ap2Biblioteca.dll
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\obj\Debug\net8.0\refint\Ap2Biblioteca.dll
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\obj\Debug\net8.0\Ap2Biblioteca.pdb
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\obj\Debug\net8.0\Ap2Biblioteca.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\c_sarp\Ap2Biblioteca\obj\Debug\net8.0\ref\Ap2Biblioteca.dll
